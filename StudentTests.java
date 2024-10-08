@@ -6,10 +6,6 @@ import org.junit.Test;
 
 public class StudentTests {
 
-	/* Use the @Test annotation for JUnit 4 
-	 * [This is just an example, please erase
-	 * it and write some real tests.  We are not grading your tests on this
-	 * project, but writing them will help you to debug your code!]    */
 	@Test
 	public void testGetCardAt() {
 		Deck deck = new Deck();
