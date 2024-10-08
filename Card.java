@@ -3,7 +3,6 @@ package poker;
  * An immutable class representing a playing card from a standard deck.
  * Each card has a value and a suit.
  * 
- * @author Fawzi Emad (c) 2023
  */
 public class Card {
 
@@ -67,7 +66,6 @@ public class Card {
 	}
 	
 	/**
-	 * [STUDENTS SHOULD NOT BE CALLING THIS METHOD!]
 	 * Used for finding the image corresponding to this Card.
 	 * @return path of image file corresponding to this Card.
 	 */
